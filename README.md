@@ -1,5 +1,6 @@
-/* Created by: Brian Milne
+Rogers New Ticket tool application.
 
+/* Created by: Brian Milne
     Date: February 14, 2014
     Description: This program is used by the Microage Executive Support
     technicians to track the work they perform. The program is linked to a
